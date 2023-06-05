@@ -3,7 +3,6 @@
 ### Tools and Languages used:
 
 - HTML
-- CSS
 - ReactJs
 - Material-UI
 - Visual Studio Code
