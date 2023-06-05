@@ -7,7 +7,7 @@
 - Material-UI
 - Visual Studio Code
 
-### Live Demo: [AlbumLayout](https://HussamOdeh12.github.io/album-layout)
+### Live Demo: [Album-Layout](https://HussamOdeh12.github.io/album-layout)
 
 <hr>
 
