@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/album-layout/static/js/main.eeb2eaee.js",
+    "main.js": "/album-layout/static/js/main.bd81e208.js",
     "index.html": "/album-layout/index.html",
-    "main.eeb2eaee.js.map": "/album-layout/static/js/main.eeb2eaee.js.map"
+    "main.bd81e208.js.map": "/album-layout/static/js/main.bd81e208.js.map"
   },
   "entrypoints": [
-    "static/js/main.eeb2eaee.js"
+    "static/js/main.bd81e208.js"
   ]
 }
